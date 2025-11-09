@@ -1,0 +1,5 @@
+{
+  "name": "Stocky Rewards Dashboard",
+  "description": "A dashboard to visualize and manage hypothetical stock rewards for users, based on the Stocky company concept. It includes views for current portfolio, historical value, and today's rewards, along with a form to simulate granting new stock incentives.",
+  "requestFramePermissions": []
+}
